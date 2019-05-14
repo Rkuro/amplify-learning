@@ -1,0 +1,14 @@
+{
+    "amplifyenv": {
+        "awscloudformation": {
+            "AuthRoleName": "opencreditx-amplifyenv-20190514090633-authRole",
+            "UnauthRoleArn": "arn:aws:iam::136972773456:role/opencreditx-amplifyenv-20190514090633-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::136972773456:role/opencreditx-amplifyenv-20190514090633-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "opencreditx-amplifyenv-20190514090633-deployment",
+            "UnauthRoleName": "opencreditx-amplifyenv-20190514090633-unauthRole",
+            "StackName": "opencreditx-amplifyenv-20190514090633",
+            "StackId": "arn:aws:cloudformation:us-east-1:136972773456:stack/opencreditx-amplifyenv-20190514090633/18f4fe30-7649-11e9-a389-0ea1c9c8db82"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "opencreditx",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}
